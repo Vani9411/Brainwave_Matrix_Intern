@@ -1,5 +1,6 @@
 # Brainwave_Matrix_Intern
 Register-app
+
 🚀 Welcome to My DevOps Project – Registration App!
 This project is a part of my DevOps learning journey where I developed and deployed a Java-based Registration Web Application. The goal was not just to build the app, but to manage the entire lifecycle using DevOps tools and practices — from development to deployment and monitoring.
 
@@ -21,7 +22,6 @@ I used a range of DevOps tools to complete this project:
 
 🐬 MySQL as the backend database
 
-📊 (Optional) Prometheus + Grafana for monitoring and logs
 
 
 🔁 How I Managed the Workflow:
